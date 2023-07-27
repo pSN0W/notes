@@ -1,0 +1,61 @@
+# Que
+- [[diameter_of_binary_tree]]
+- [[subtree_of_another_tree]]
+- [[symmetric_tree]]
+- [[sorted_array_to_bst]]
+- [[minimum_absolute_difference_in_bst]]
+- [[height_balanced_tree]]
+- [[nodes_at_distance_k]]
+- [[path_sum_iii]]
+- [[flatten_binary_tree]]
+- [[max_width_of_bt]]
+- [[unique_bst_ii]]
+- [[binary_tree_cameras]]
+- [[two_sum_bst]]
+- [[children_sum_binary_tree]]
+- [[count_complete_tree_node]]
+# Algorithm
+- Traverse a tree using stack
+- [LCA](https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/) Using binary lifting too
+- Morris Traversal
+- [All Traversals](https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/283746/all-dfs-traversals-preorder-inorder-postorder-in-python-in-1-line/)
+- Iterative Travesal for all
+- Construction of binary trees from traversal
+- https://www.youtube.com/watch?v=ZWGW7FminDM -> watch code of this and figure it out
+- [kth smallest element](https://www.youtube.com/watch?v=9TJYWh0adfk)
+- Good que on [vertical order traversal](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
+- Binary lifting watch [this](https://www.youtube.com/watch?v=oib-XsjFa-M&t=748s) then solve [this](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) and [this](https://www.interviewbit.com/problems/max-edge-queries/) 
+- https://www.youtube.com/playlist?list=PLlsmxlJgn1HJRYU7YIf8DSEg8_DGwSV29
+- Solve it from interview bit complete
+- Balanced Binary Tree ht(left) - ht(rt) < 1
+- Traversals
+	- [[vertical_order_traversal]]
+	- [[diagonal_order_traversal]]
+	- [[level_order_traversal]]
+	- [[inorder_traversal]]
+	- [[preorder_traversal]]
+	- [[postorder_traversal]]
+	- [[preorder_inorder_postorder_in_one_traversal]]
+	- [[boundary_traversal]]
+	- [[morris_traversal]]
+- Views of tree
+	- [[top_view_of_tree]]
+	- [[bottom_view_of_tree]]
+	- [[right_view_of_tree]]
+- Construction
+	- You can't create a [unique tree from just one traversal](https://takeuforward.org/binary-tree/how-to-construct-a-binary-tree-using-different-traversals/) you will need to have atleast two
+	- [[from_inorder_and_preorder]] 
+	- [[from_postorder_and_inorder]]
+	- [[construct_bst_from_preorder]]
+- Binary Lifting
+	- https://www.youtube.com/playlist?list=PL-Jc9J83PIiGC6uQ2CjMhSaWAcmjbAQfp
+	- [[kth_ancestor]]
+	- [[lowest_common_ancestor]]
+- Binary Search Tree
+	- [[equal_ceil_floor_in_bst]]
+	- [[insert_a_node_in_bst]]
+	- [[delete_a_node_in_bst]]
+	-  [[validate_bst]]
+	- [[lca_in_bst]]
+	- [[inorder_successor_of_bst]]
+	- [[bst_iterator]]

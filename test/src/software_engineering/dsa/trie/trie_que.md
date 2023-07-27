@@ -1,0 +1,1 @@
+- [[pair_and_0]] You can use trie to map the whole thing then for each of them just search for opposite of the current bit. If your search takes you to a node then all its children will be correct pair. You can assume 0. Will be fun to see if it is solvable like this.

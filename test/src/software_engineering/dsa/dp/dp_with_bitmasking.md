@@ -1,0 +1,14 @@
+# Que
+- [[can_i_win]]
+- [[stickers_to_spell_words]]
+- [[smallest_sufficient_team]]
+- [[shortest_path_for_visiting_all_nodes]]
+- [[maximum_students_taking_exam]]
+- [[shortest_common_superstring]]
+- [[number_of_ways_to_wear_hats]]
+- [[min_cost_to_connect_two_group_of_point]]
+- [[maximum_number_of_achievable_requests]]
+- [[distribute_repeated_integer]]
+- [[find_maximum_time_to_finish_all_jobs]] 
+# Algo
+- https://www.youtube.com/playlist?list=PLb3g_Z8nEv1icFNrtZqByO1CrWVHLlO5g

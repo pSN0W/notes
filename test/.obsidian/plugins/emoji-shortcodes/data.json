@@ -1,0 +1,14 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":microscope:",
+    ":computer:",
+    ":nerd_face:",
+    ":runner:",
+    ":blue_book:",
+    ":hammer:"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"type":"text","text":"Linked List","id":"de208c990f36cb51","x":-80,"y":-60,"width":140,"height":60,"color":"3"},
+		{"type":"text","text":"[[reverse_a_ll]]\nhead->next->next = rev(head->next)","id":"41bdd30b266e44ac","x":-440,"y":-250,"width":247,"height":90},
+		{"type":"text","text":"[[runners_technique]]\nUsed to get mid of linked list. Have a slow and a fast pointer","id":"bfdbb401eb54acff","x":-440,"y":-60,"width":247,"height":90},
+		{"type":"text","text":"**Always think in term of recursion will be easier**","id":"56720fa19941e0b2","x":-80,"y":140,"width":250,"height":60},
+		{"type":"text","text":"**Floyd Cycle find Algo**\nThe idea is to have one slow and one fast pointer and the fast one will eventually catch the slow one in a loop","id":"a7ff64934951e6d2","x":-440,"y":110,"width":247,"height":90},
+		{"type":"text","text":"[[linked_list_cycle_ii]]\nOnce you detect loop. Move one of the pointer to head and move both pointer at same speed where they meet will be start","id":"b60b549da4b86372","x":-880,"y":30,"width":304,"height":140,"color":"1"},
+		{"type":"text","text":"**Standard Que**","id":"e033c5ca75f2f13c","x":194,"y":-138,"width":186,"height":58},
+		{"type":"text","text":"[[merge_2_sorted_ll]]\nChoose the current head and then recursively merge","id":"b3380c9521c38442","x":435,"y":-277,"width":245,"height":97},
+		{"type":"text","text":"[[k_reverse_linked_list]]\nReturn both head and tail after reverse. Join tail of current with head of next","id":"778be945975c5b78","x":-821,"y":-380,"width":245,"height":97},
+		{"type":"text","text":"[[intersection_of_two_ll]]\nYou have to negate the difference between len","id":"5a58c4bab3fe6471","x":435,"y":-48,"width":245,"height":97},
+		{"type":"text","text":"[[palindrome_ll]]\nFind mid, reverse around mid. Check if the two ll are same","id":"da33baa0b576c113","x":-821,"y":-228,"width":245,"height":97},
+		{"type":"text","text":"[[reorder_list]]\nFind mid to break it into 2 and then arrange recursive","id":"83296d284c2264f6","x":-821,"y":-96,"width":245,"height":97}
+	],
+	"edges":[
+		{"id":"e0645f0768b4b665","fromNode":"de208c990f36cb51","fromSide":"bottom","toNode":"56720fa19941e0b2","toSide":"top"},
+		{"id":"af1253531d0bcd70","fromNode":"de208c990f36cb51","fromSide":"left","toNode":"41bdd30b266e44ac","toSide":"right"},
+		{"id":"f75a5d415278ec5e","fromNode":"de208c990f36cb51","fromSide":"left","toNode":"bfdbb401eb54acff","toSide":"right"},
+		{"id":"df9ab370e59a0081","fromNode":"de208c990f36cb51","fromSide":"left","toNode":"a7ff64934951e6d2","toSide":"right"},
+		{"id":"d60e8222b4d67f4e","fromNode":"a7ff64934951e6d2","fromSide":"left","toNode":"b60b549da4b86372","toSide":"right"},
+		{"id":"7c61023ecce81282","fromNode":"de208c990f36cb51","fromSide":"right","toNode":"e033c5ca75f2f13c","toSide":"left"},
+		{"id":"9a461f8632f09bd5","fromNode":"e033c5ca75f2f13c","fromSide":"right","toNode":"b3380c9521c38442","toSide":"left"},
+		{"id":"e38c401c1815064e","fromNode":"41bdd30b266e44ac","fromSide":"left","toNode":"778be945975c5b78","toSide":"right"},
+		{"id":"8540537d0df27051","fromNode":"e033c5ca75f2f13c","fromSide":"right","toNode":"5a58c4bab3fe6471","toSide":"left"},
+		{"id":"719ba362a348be70","fromNode":"41bdd30b266e44ac","fromSide":"left","toNode":"da33baa0b576c113","toSide":"right"},
+		{"id":"2bd5011b34ee410f","fromNode":"bfdbb401eb54acff","fromSide":"left","toNode":"da33baa0b576c113","toSide":"right"},
+		{"id":"4dad1df532acbc4e","fromNode":"bfdbb401eb54acff","fromSide":"left","toNode":"83296d284c2264f6","toSide":"right"}
+	]
+}

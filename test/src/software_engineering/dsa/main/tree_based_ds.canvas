@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"**Tree based DS**","id":"f545f6b9e796ed1b","x":-80,"y":-60,"width":180,"height":60,"color":"3"},
+		{"type":"text","text":"**Trie**","id":"6e96dd433cca9f3c","x":-241,"y":-206,"width":250,"height":60},
+		{"type":"text","text":"**Fenwich Tree**","id":"e50ed5dd03fcc068","x":60,"y":-206,"width":250,"height":60},
+		{"id":"ad715392ccf15eef","x":-112,"y":118,"width":250,"height":60,"type":"text","text":"https://www.youtube.com/playlist?list=PLlsmxlJgn1HJRYU7YIf8DSEg8_DGwSV29"}
+	],
+	"edges":[
+		{"id":"cdc69cebb8bf7667","fromNode":"f545f6b9e796ed1b","fromSide":"top","toNode":"6e96dd433cca9f3c","toSide":"bottom"},
+		{"id":"d8fc860ae47234b9","fromNode":"f545f6b9e796ed1b","fromSide":"top","toNode":"e50ed5dd03fcc068","toSide":"bottom"},
+		{"id":"dba6fa7cfea4b490","fromNode":"f545f6b9e796ed1b","fromSide":"bottom","toNode":"ad715392ccf15eef","toSide":"top"}
+	]
+}

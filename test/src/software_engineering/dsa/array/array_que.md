@@ -1,0 +1,33 @@
+# Questions
+- [[pair_sum_k]]
+- [[triplet_sum_k]]
+- [[subarray_sort]]
+- [[min_swaps]]
+- [[merge_without_space]]
+- [[moore_voting]]
+- [[next_permutation]]
+- [[rotate_image]]
+- [[word_search]] -> some problem with dp check
+- [[find_duplicate]]
+- [[jump_game_2]]
+- [[unique_pair_with_difference_k]]
+- [[wiggle_subsequence]]
+- [[max_length_of_pair_chain]]
+- [[best_time_to_buy_and_sell_stock_with_fee]]
+- [[subarray_sum_divisible_by_k]]
+- [[first_missing_positive]]
+- [[maximum_product_subarray]]
+- [[2d_prefix_sum]]
+- [[longest_substring_without_repeat]]
+- [[trapping_rainwater]]
+- [[housing]]
+- [[quick_select]]
+- [[maximum_sum_triplet]]
+- [[triplet_sum_between_given_range]]
+- [[maximum_consecutive_gap]]
+- [[max_distance]]
+# Algorithms
+- [Sorting Algorithms](https://www.youtube.com/playlist?list=PLlsmxlJgn1HLCmaF51i5xAbgv1f49CsoP)
+- Valley and trough
+- [Sliding_window_max](https://leetcode.com/problems/sliding-window-maximum/)
+- 

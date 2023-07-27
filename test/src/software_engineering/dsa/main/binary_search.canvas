@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"b65016d09359ef6e","x":-120,"y":-40,"width":160,"height":60,"color":"3","type":"text","text":"**Binary Search**"},
+		{"id":"e716f2efecb455b1","x":-520,"y":-303,"width":270,"height":163,"type":"text","text":"**Terminalogy**\n- lower_bound: smallest number equal or greater\n- upper_bound: Just greater then the given"},
+		{"type":"text","text":"**Search Ans**\nYou will be give monotonic array. The array will go from TTTFFF or FFFTTT. You just need to find lower bound of T","id":"cfeb04d5e3ba472e","x":200,"y":-89,"width":300,"height":159},
+		{"id":"58dd93a738ded646","x":-478,"y":168,"width":250,"height":60,"type":"text","text":"**Standard Question**"},
+		{"id":"e14d685cb79f02d0","x":-560,"y":-10,"width":248,"height":73,"color":"1","type":"text","text":"[[peak_element]]\narray can be unsorted if `a[m-1]<a[m]<a[m+1]` one peak lies in right"},
+		{"type":"text","text":"[[rotated_search]]\nFind the pivot and use it to break in two sorted arr","id":"4afcf0650f613d21","x":-684,"y":300,"width":248,"height":73},
+		{"type":"text","text":"[[square_root]]\nFind i such that `i*i<n` then for decimal use loop","id":"3c28bb448737461c","x":-420,"y":300,"width":248,"height":73},
+		{"type":"text","text":"[[min_pair]]\nSort one of the array and use bs in it to get closest","id":"189f5d8822c0523b","x":-768,"y":95,"width":248,"height":73},
+		{"type":"text","text":"[[minimum_limit_of_ball_in_bag]]\nUnique problem take a look","id":"579cfd24f0c23e89","x":320,"y":-303,"width":248,"height":94,"color":"1"},
+		{"type":"text","text":"[[angry_bird]]\nSearch for the possible distance","id":"41d4f842bba76184","x":600,"y":-183,"width":248,"height":94},
+		{"type":"text","text":"[[game_of_greed]]\nSearch for the answer","id":"61af1f6cc5de5ef7","x":600,"y":-24,"width":248,"height":94},
+		{"type":"text","text":"[[matrix_median]]\nSearch for median in the sorted rows","id":"eefbe4f9df2bb0a6","x":420,"y":134,"width":248,"height":94,"color":"1"},
+		{"type":"text","text":"[[median_of_two_sorted_array]]\nImportant","id":"5cea462e445006a9","x":120,"y":134,"width":248,"height":94,"color":"1"}
+	],
+	"edges":[
+		{"id":"09dc4374f04a004c","fromNode":"b65016d09359ef6e","fromSide":"left","toNode":"e716f2efecb455b1","toSide":"right"},
+		{"id":"fb5acbaa3b8cf72c","fromNode":"b65016d09359ef6e","fromSide":"right","toNode":"cfeb04d5e3ba472e","toSide":"left"},
+		{"id":"ebde48f56392d9b1","fromNode":"b65016d09359ef6e","fromSide":"left","toNode":"58dd93a738ded646","toSide":"right"},
+		{"id":"364e2a8a56d195c8","fromNode":"58dd93a738ded646","fromSide":"top","toNode":"e14d685cb79f02d0","toSide":"bottom"},
+		{"id":"be90be0d262e9998","fromNode":"58dd93a738ded646","fromSide":"bottom","toNode":"4afcf0650f613d21","toSide":"top"},
+		{"id":"dede8c4c89fab596","fromNode":"58dd93a738ded646","fromSide":"bottom","toNode":"3c28bb448737461c","toSide":"top"},
+		{"id":"989d6abf19875b08","fromNode":"58dd93a738ded646","fromSide":"left","toNode":"189f5d8822c0523b","toSide":"right"},
+		{"id":"cce01136e6951441","fromNode":"cfeb04d5e3ba472e","fromSide":"top","toNode":"579cfd24f0c23e89","toSide":"bottom"},
+		{"id":"193a158195fb6e66","fromNode":"cfeb04d5e3ba472e","fromSide":"right","toNode":"41d4f842bba76184","toSide":"left"},
+		{"id":"84472d6b4835cd4c","fromNode":"cfeb04d5e3ba472e","fromSide":"right","toNode":"61af1f6cc5de5ef7","toSide":"left"},
+		{"id":"d96e9b9b65f993ce","fromNode":"cfeb04d5e3ba472e","fromSide":"bottom","toNode":"eefbe4f9df2bb0a6","toSide":"top"},
+		{"id":"3dda9ab90e5789bb","fromNode":"cfeb04d5e3ba472e","fromSide":"bottom","toNode":"5cea462e445006a9","toSide":"top"}
+	]
+}

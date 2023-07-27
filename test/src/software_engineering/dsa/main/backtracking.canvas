@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"type":"text","text":"**Recursion**","id":"1dceaf4f6d59d830","x":-80,"y":-60,"width":140,"height":60,"color":"3"},
+		{"type":"text","text":"**General stuff**\n- If you can choose an element multiple time so `f(n) = f(n) + f(n+1)`. Avoid calling `f(n)` if no change in state.\n- Choose and not choose\n- Choose any of possible","id":"0ac42ec9b2f7e051","x":-135,"y":-360,"width":255,"height":217},
+		{"type":"text","text":"**Standard Que**\nStandard recursion","id":"4fccdbab5149637a","x":300,"y":108,"width":198,"height":64},
+		{"type":"text","text":"[[generating_brackets]]\nAdd closing bracket only if you have open bracket. OB can not be more than n","id":"6f2c93a20c7e0777","x":587,"y":-67,"width":253,"height":107},
+		{"type":"text","text":"[[permutation]]\nPerform swaps for each i with for all j to i..n","id":"433d9908ed389a94","x":587,"y":87,"width":253,"height":107},
+		{"type":"text","text":"[[binary_string]]\nWhen you place 1 you can place 0 after it.","id":"3e1467e81e1d53df","x":587,"y":227,"width":253,"height":107,"color":"1"},
+		{"type":"text","text":"**[[duplicates_and_non_duplicates]]**\nYou can use indexing to avoid duplicate","id":"18fb060fef7fef55","x":-535,"y":-77,"width":275,"height":97},
+		{"type":"text","text":"**[[subset_ii]]**\nIf you skip an element then skip it for the whole subtree.","id":"418e954fc1679e30","x":-561,"y":-240,"width":261,"height":89,"color":"1"},
+		{"type":"text","text":"**[[permutation_ii]]**\nYou maintain a counter of each element to ensure that you don't put same element at same depth","id":"d6a318ece528ecba","x":-860,"y":-151,"width":261,"height":89,"color":"1"},
+		{"type":"text","text":"**[[combination_sum_ii]]**\nUse index to ensure uniqueness","id":"f96a19022d9172e2","x":-860,"y":20,"width":261,"height":89},
+		{"type":"text","text":"**[[combination_sum_backtracking]]**\nUse index to ensure uniqueness","id":"2bf1387662efa6e1","x":-528,"y":96,"width":261,"height":89},
+		{"type":"text","text":"[[decode_string]]\nRecursively solve each `[]`.","id":"a8fcddf335490a6c","x":245,"y":-67,"width":253,"height":107,"color":"1"},
+		{"type":"text","text":"[[tower_of_hanoi]]\nSolve again","id":"5272c959d58a308b","x":245,"y":227,"width":253,"height":107,"color":"1"},
+		{"type":"text","text":"**Total Number of ways**\nMark visited for a branch","id":"d043b9b01f340baf","x":273,"y":-207,"width":198,"height":64},
+		{"type":"text","text":"[[rat_in_a_maze]]\nMark visited as true for a branch only. Check this for explanation","id":"ab88a5eb118a8054","x":587,"y":-228,"width":253,"height":107,"color":"1"},
+		{"type":"text","text":"[[partition_to_k_equal_subset_sum]]\nHave k bucket and assign the current to any one of those","id":"f8680b29f4adf335","x":246,"y":-360,"width":253,"height":107,"color":"1"},
+		{"type":"text","text":"**Follow these steps**\n- Figure out smallest case as base\n- Assume subproblem can be solved\n- Solve current problem assuming solution for subproblem exist","id":"82507e71aab7034e","x":-137,"y":65,"width":255,"height":217}
+	],
+	"edges":[
+		{"id":"aa54e83a2384879a","fromNode":"1dceaf4f6d59d830","fromSide":"bottom","toNode":"82507e71aab7034e","toSide":"top"},
+		{"id":"6688761b6418f9a3","fromNode":"1dceaf4f6d59d830","fromSide":"top","toNode":"0ac42ec9b2f7e051","toSide":"bottom"},
+		{"id":"dfac667f187e4aac","fromNode":"1dceaf4f6d59d830","fromSide":"right","toNode":"4fccdbab5149637a","toSide":"left"},
+		{"id":"62370fe0a3a833e7","fromNode":"4fccdbab5149637a","fromSide":"right","toNode":"6f2c93a20c7e0777","toSide":"left"},
+		{"id":"4b456d029f51bdeb","fromNode":"4fccdbab5149637a","fromSide":"right","toNode":"433d9908ed389a94","toSide":"left"},
+		{"id":"1f05dcd4e86de478","fromNode":"4fccdbab5149637a","fromSide":"right","toNode":"3e1467e81e1d53df","toSide":"left"},
+		{"id":"eb315ab971efde0e","fromNode":"1dceaf4f6d59d830","fromSide":"left","toNode":"18fb060fef7fef55","toSide":"right"},
+		{"id":"53113794896c1d3c","fromNode":"18fb060fef7fef55","fromSide":"top","toNode":"418e954fc1679e30","toSide":"bottom"},
+		{"id":"d165735757525c97","fromNode":"18fb060fef7fef55","fromSide":"left","toNode":"d6a318ece528ecba","toSide":"right"},
+		{"id":"6fb9432562a5b6b7","fromNode":"18fb060fef7fef55","fromSide":"left","toNode":"f96a19022d9172e2","toSide":"right"},
+		{"id":"6ea98beba296aa7d","fromNode":"18fb060fef7fef55","fromSide":"bottom","toNode":"2bf1387662efa6e1","toSide":"top"},
+		{"id":"4061cef69727edfe","fromNode":"4fccdbab5149637a","fromSide":"top","toNode":"a8fcddf335490a6c","toSide":"bottom"},
+		{"id":"b026a2e825ef1ddf","fromNode":"4fccdbab5149637a","fromSide":"bottom","toNode":"5272c959d58a308b","toSide":"top"},
+		{"id":"99fd87b10154ed07","fromNode":"d043b9b01f340baf","fromSide":"right","toNode":"ab88a5eb118a8054","toSide":"left"},
+		{"id":"bc149790c44ad811","fromNode":"d043b9b01f340baf","fromSide":"top","toNode":"f8680b29f4adf335","toSide":"bottom"},
+		{"id":"ef20e9812e980c05","fromNode":"1dceaf4f6d59d830","fromSide":"right","toNode":"d043b9b01f340baf","toSide":"left"}
+	]
+}

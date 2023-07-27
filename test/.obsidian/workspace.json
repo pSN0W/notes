@@ -1,0 +1,351 @@
+{
+  "main": {
+    "id": "9201d8492156c90d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f79f6e4d43b7f3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c7964f230326348",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "src/software_engineering/dsa/main/graph.canvas",
+                "viewState": {
+                  "x": 340.29733968346846,
+                  "y": 166.0965795930313,
+                  "zoom": -0.7971522879020018
+                }
+              }
+            }
+          },
+          {
+            "id": "eddbb51bbe58e140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/software_engineering/dsa/graph/flood_fill.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d2d37f41f9a607a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-27 19.41.34.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "9cad53015f17ade2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/software_engineering/dsa/graph/minimum_spanning_tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6d0b0c7ff508ab7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-27 19.22.06.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "5fb615c75950b1c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/software_engineering/dsa/graph/shortest_path_algos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f455f9c945ba4dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/software_engineering/dsa/graph/topological_sorting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3c8fe6c398ce77b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2ac78b0651e2f48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89f30069f828afa2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4e2239effc36620",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c11d6425da1a073",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Classica",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "209b178f58b0129a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a16bb54cc378fd89",
+    "type": "split",
+    "children": [
+      {
+        "id": "66959b1759bce940",
+        "type": "tabs",
+        "dimension": 44.249201277955265,
+        "children": [
+          {
+            "id": "948daea5e227305e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-27 19.41.34.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd1504b46d660f16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-27 19.41.34.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ce8e510cddc926b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb4cf5785a3156cc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e47dbad6dc0817e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-27 19.41.34.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "8978980ae925035f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "ed2c06f1236c9cf3",
+        "type": "tabs",
+        "dimension": 55.75079872204473,
+        "children": [
+          {
+            "id": "8026f6519e0e0853",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-27 19.41.34.excalidraw.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8503332579959422,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7d2d37f41f9a607a",
+  "lastOpenFiles": [
+    "src/software_engineering/dsa/main/graph.canvas",
+    "src/software_engineering/dsa/graph/flood_fill.md",
+    "Excalidraw/Drawing 2023-07-27 19.41.34.excalidraw.md",
+    "src/software_engineering/dsa/graph/minimum_spanning_tree.md",
+    "Excalidraw/Drawing 2023-07-27 19.22.06.excalidraw.md",
+    "src/software_engineering/dsa/graph/shortest_path_algos.md",
+    "src/software_engineering/dsa/graph/topological_sorting.md",
+    "Excalidraw/Drawing 2023-07-27 19.07.37.excalidraw.md",
+    "src/software_engineering/dsa/graph/cycle_detection.md",
+    "src/software_engineering/dsa/graph/find_eventful_safe_states.md",
+    "Excalidraw/Drawing 2023-07-27 18.57.25.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-27 18.49.49.excalidraw.md",
+    "src/software_engineering/dsa/main/dynamic_programming.canvas",
+    "src/software_engineering/dsa/dp/count_the_repetitions.md",
+    "Excalidraw/Drawing 2023-07-26 21.53.14.excalidraw.md",
+    "src/software_engineering/dsa/main/trees.canvas",
+    "src/software_engineering/dsa/main/tree_based_ds.canvas",
+    "src/software_engineering/dsa/main/string.canvas",
+    "src/software_engineering/dsa/main/stack_queue.canvas",
+    "src/software_engineering/dsa/main/maths.canvas",
+    "src/software_engineering/dsa/main/linked_list.canvas",
+    "src/software_engineering/dsa/main/heap.canvas",
+    "src/software_engineering/dsa/main/bit_manipulation.canvas",
+    "src/software_engineering/companies/off_campus.md",
+    "src/software_engineering/subjects/operating_system.md",
+    "src/software_engineering/dsa/dp/classical_dp.md",
+    "src/software_engineering/dsa/dp/can_i_win.md",
+    "src/software_engineering/dsa/dp/number_of_ways_to_wear_hats.md",
+    "src/software_engineering/dsa/dp/min_cost_to_connect_two_group_of_point.md",
+    "src/software_engineering/dsa/dp/dp_with_bitmasking.md",
+    "src/software_engineering/dsa/dp/distribute_repeated_integer.md",
+    "src/software_engineering/dsa/dp/maximum_number_of_achievable_requests.md",
+    "src/software_engineering/dsa/dp/shortest_common_superstring.md",
+    "src/software_engineering/dsa/dp/maximum_students_taking_exam.md",
+    "src/software_engineering/dsa/dp/shortest_path_for_visiting_all_nodes.md",
+    "src/software_engineering/dsa/trees/assets/Pasted image 20230723151654.png",
+    "src/software_engineering/dsa/trees/assets/Pasted image 20230723151649.png",
+    "src/software_engineering/dsa/trees/assets/Pasted image 20230723044159.png",
+    "src/software_engineering/dsa/trees/assets/Pasted image 20230723043007.png",
+    "src/software_engineering/dsa/trees/assets/Pasted image 20230723042223.png",
+    "src/software_engineering/dsa/trees/assets/Pasted image 20230723040845.png",
+    "src/software_engineering/dsa/trees/assets/Pasted image 20230723040806.png",
+    "src/software_engineering/dsa/trees/assets/Pasted image 20230723040640.png",
+    "src/software_engineering/dsa/trees/assets/Pasted image 20230723033933.png",
+    "src/software_engineering/dsa/trees/assets/Pasted image 20230723024343.png",
+    "src/software_engineering/subjects/assets",
+    "src/software_engineering/subjects",
+    "src/software_engineering/dsa/bit_manipulation",
+    "src/software_engineering/dsa/maths/assets",
+    "src/software_engineering/dsa/main",
+    "src/software_engineering/dsa/string",
+    "src/software_engineering/companies",
+    "src/software_engineering/dsa/linkedlist/assets",
+    "src/software_engineering/dsa/linkedlist",
+    "src/software_engineering/dsa/trees/assets"
+  ]
+}

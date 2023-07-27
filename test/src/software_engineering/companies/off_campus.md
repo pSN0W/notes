@@ -1,0 +1,10 @@
+- Kivi Capital
+- DP World
+- Alpha Grep
+- [Here](https://leetcode.com/discuss/compensation/2748640/300-company-compensation-for-)
+- MotorX
+- APT Portfolio
+- [Irdeto](https://careers.irdeto.com/)
+- https://leetcode.com/discuss/study-guide/1382141/My-Journey-till-now-with-Interviews-and-Prep
+- https://www.teamblind.com/post/Top-paying-startup-list-2021[India]-RGSgNhMS - Insane
+- 

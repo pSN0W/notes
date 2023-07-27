@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1eb6c54160b169a5","x":-60,"y":-40,"width":100,"height":60,"color":"3","type":"text","text":"**String**"},
+		{"id":"7813f48cdd9d72bc","x":-226,"y":-182,"width":250,"height":60,"type":"text","text":"Various string matching algo specially KMP"}
+	],
+	"edges":[
+		{"id":"f81469b469249541","fromNode":"1eb6c54160b169a5","fromSide":"top","toNode":"7813f48cdd9d72bc","toSide":"bottom"}
+	]
+}
